@@ -401,7 +401,7 @@ export default class Aside extends Component {
                                     <i className="nav-icon fas fa-file"></i>
                                     <p>Manual</p>
                                 </a> 
-                            </li>
+                            </li>                             
                             <li className="nav-item">
                                 <a href="#" className="nav-link" >
                                     <i className="nav-icon fas fa-file"></i>
