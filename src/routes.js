@@ -20,8 +20,6 @@ import PaginaConstruccion from './pages/PaginaConstruccion';
 //import Error from './pages/Error';
 import Aside from './components/Aside';
 
-
-
 const Routes = () => {
     return (
         <Router>
