@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 
 export default class Header extends Component {
     render() {
-        return (
+        return ( 
             <div>
                 <nav className="main-header navbar navbar-expand navbar-dark navbar-info">
 

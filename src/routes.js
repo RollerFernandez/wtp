@@ -22,7 +22,7 @@ import Aside from './components/Aside';
 
 const Routes = () => {
     return (
-        <Router>
+        <Router> 
             <Aside />
             <Route exact path='/' component={Dashboard} />
             <Route path='/perfil' component={Perfil} />
